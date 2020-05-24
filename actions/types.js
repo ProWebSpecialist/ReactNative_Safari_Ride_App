@@ -1,0 +1,12 @@
+export const FIRST_NAME_CHANGED = 'first_name_changed';
+export const LAST_NAME_CHANGED = 'last_name_changed';
+export const EMAIL_CHANGED = 'email_changed';
+export const PHONE_CHANGED = 'phone_changed';
+export const STREET_ADDRESS_CHANGED = 'street_address_changed';
+export const ADDRESS_LINE_TWO_CHANGED = 'address_line_two_changed';
+export const CITY_CHANGED = 'city_changed';
+export const STATE_CHANGED = 'state_changed';
+export const ZIP_CHANGED = 'zip_changed';
+export const PHONE_INPUT_CHANGED = 'phone_input_changed';
+export const PASSWORD_CHANGED = 'password_changed';
+export const CONFIRM_PASSWORD_CHANGED = 'confirm_password_changed';
